@@ -9,3 +9,8 @@ secret.auto.tfvars
 
 // Ignore the .dccache file for Snyk Code Analysis
 .dccache
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
+
+.vscode
